@@ -1,0 +1,16 @@
+import{j as t,m as l,a as x}from"./index-D9fbQM-Y.js";import{a as m}from"./use-combine-values-BzzlWlNz.js";import{S as f}from"./sparkles-D2QG-_y0.js";import{c as a}from"./createLucideIcon-KExIQmmt.js";import{S as y}from"./settings-5JZVQRjO.js";import{u as c}from"./use-transform-c1Zrb0KJ.js";import{u as h}from"./use-spring-Bz37amPw.js";/**
+ * @license lucide-react v0.575.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const b=[["path",{d:"m18 16 4-4-4-4",key:"1inbqp"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}],["path",{d:"m14.5 4-5 16",key:"e7oirm"}]],k=a("code-xml",b);/**
+ * @license lucide-react v0.575.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=[["path",{d:"M12 22a1 1 0 0 1 0-20 10 9 0 0 1 10 9 5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z",key:"e79jfc"}],["circle",{cx:"13.5",cy:"6.5",r:".5",fill:"currentColor",key:"1okk4w"}],["circle",{cx:"17.5",cy:"10.5",r:".5",fill:"currentColor",key:"f64h9f"}],["circle",{cx:"6.5",cy:"12.5",r:".5",fill:"currentColor",key:"qy21gx"}],["circle",{cx:"8.5",cy:"7.5",r:".5",fill:"currentColor",key:"fotxhn"}]],_=a("palette",g);/**
+ * @license lucide-react v0.575.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const w=[["path",{d:"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5",key:"qeys4"}],["path",{d:"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09",key:"u4xsad"}],["path",{d:"M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z",key:"676m9"}],["path",{d:"M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05",key:"92ym6u"}]],v=a("rocket",w);function R(){const o=m(1/0);return t.jsx("div",{className:"flex h-[400px] w-full items-center justify-center bg-black dark:bg-black font-sans",children:t.jsx(l.div,{onMouseMove:e=>o.set(e.pageX),onMouseLeave:()=>o.set(1/0),className:"mx-auto flex h-16 items-end gap-4 rounded-2xl bg-neutral-900/80 px-4 pb-3 shadow-[0_0_0_1px_rgba(255,255,255,0.05),_0_10px_40px_rgba(0,0,0,0.8)] backdrop-blur-xl",children:[{icon:f,label:"Sparkles"},{icon:_,label:"Design"},{icon:k,label:"Code"},{icon:v,label:"Deploy"},{icon:y,label:"Settings"}].map((e,r)=>t.jsx(j,{mouseX:o,item:e},r))})})}function j({mouseX:o,item:e}){const r=x.useRef(null),i=c(o,u=>{var s;let n=((s=r.current)==null?void 0:s.getBoundingClientRect())??{x:0,width:0};return u-n.x-n.width/2});let d=c(i,[-150,0,150],[40,80,40]),p=h(d,{mass:.1,stiffness:150,damping:12});return t.jsxs(l.div,{ref:r,style:{width:p},className:"group relative flex aspect-square items-center justify-center rounded-full bg-neutral-800 border border-neutral-700/50 shadow-[inset_0_1px_1px_rgba(255,255,255,0.1)] text-neutral-400 hover:text-white transition-colors",children:[t.jsx(e.icon,{className:"h-6 w-6"}),t.jsx("div",{className:"absolute -top-12 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-md bg-neutral-800 px-3 py-1.5 text-xs text-neutral-300 opacity-0 transition-opacity group-hover:opacity-100 border border-neutral-700/50 shadow-xl pointer-events-none",children:e.label})]})}export{R as default};
