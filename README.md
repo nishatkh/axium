@@ -51,7 +51,6 @@ Axium is a high-fidelity, performance-optimized production platform designed for
 | **Tailwind CSS v4** | Next-generation utility-first styling with native CSS variables |
 | **GSAP** | Advanced timeline-based animations and scroll orchestration |
 | **TypeScript** | Type-safe development for enterprise-grade stability |
-| **Lucide React** | Consistent, high-fidelity iconography |
 
 ---
 
