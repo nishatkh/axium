@@ -1,6 +1,4 @@
 # Axium
-
-![Axium Banner](https://img.shields.io/badge/AESTHETIC-PURE_BLACK-000000?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/STACK-REACT_19_%7C_VITE_%7C_TAILWIND_V4-blue?style=for-the-badge)
 
 Axium is a high-fidelity, performance-optimized production platform designed for engineers who value precision, aesthetics, and speed. It serves as both a high-end component library and a showcase for state-of-the-art web design.
@@ -9,7 +7,7 @@ Axium is a high-fidelity, performance-optimized production platform designed for
 
 ## 🚀 Key Features
 
-### 1. Cinematic Engineering Hero
+### 1. Cinematic Hero
 *   **Next-Gen Hardware Mockup**: Features an iPhone 17 Pro Max chassis with a custom-rendered engineering dashboard.
 *   **Liquid Glass Refraction**: Real-time refraction effects and film grain overlays for a tactile, cinematic feel.
 *   **GSAP Powered Orchestration**: Complex, coordinated entrance animations for taglines and UI elements.
@@ -52,7 +50,6 @@ Axium is a high-fidelity, performance-optimized production platform designed for
 | **Vite 6** | Lightning-fast build tool and development server |
 | **Tailwind CSS v4** | Next-generation utility-first styling with native CSS variables |
 | **GSAP** | Advanced timeline-based animations and scroll orchestration |
-| **Framer Motion** | Declarative layout transitions and micro-interactions |
 | **TypeScript** | Type-safe development for enterprise-grade stability |
 | **Lucide React** | Consistent, high-fidelity iconography |
 
@@ -64,21 +61,6 @@ Axium is a high-fidelity, performance-optimized production platform designed for
 *   **Motion with Purpose**: Animations are either snappy (100ms) for utility or cinematic (1500ms+) for storytelling.
 *   **Accessibility**: High-contrast ratios (AAA compliance) and optimized typography for long-form reading.
 *   **Performance**: Zero-latency transitions, image optimization, and modular code splitting for sub-second load times.
-
----
-
-## 📦 Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ---
 
