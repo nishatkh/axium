@@ -1,0 +1,241 @@
+# 🔌 MCP Servers Directory
+
+## MCP: AI & Research
+- **[2slides](https://2slides.com/)**: Convert content into slides, PPTs, and presentations.
+- **[AgentOps](https://www.agentops.ai/)**: Observability and tracing for AI agents.
+- **[AgentQL](https://www.agentql.com/)**: Structured data extraction from unstructured web pages.
+- **[AgentRPC](https://www.agentrpc.com/)**: Connect functions across languages and networks.
+- **[Agentset](https://agentset.ai)**: RAG system for connected knowledge bases.
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)**: Open-source AI observability and experiment management.
+- **[Cartesia](https://cartesia.ai/)**: Text-to-speech and voice cloning.
+- **[Chroma](https://www.trychroma.com/)**: Embeddings and vector database.
+- **[Composio](https://composio.dev)**: Connect 100+ tools with built-in auth.
+- **[Daytona](https://daytona.io)**: Secure AI-generated code execution.
+- **[DeepL](https://deepl.com)**: AI translation and rewriting.
+- **[Exa](https://exa.ai)**: Search engine for AI systems.
+- **[Hugging Face](https://huggingface.co)**: Models, datasets, and AI tooling.
+- **[Kagi Search](https://kagi.com)**: AI-friendly web search.
+- **[Langfuse](https://langfuse.com)**: Prompt management and LLM observability.
+- **[Meilisearch](https://www.meilisearch.com/)**: Full-text and semantic search engine.
+- **[Milvus](https://milvus.io/)**: Vector database and semantic search.
+- **[Optuna](https://optuna.org/)**: Hyperparameter optimization.
+- **[Perplexity](https://www.perplexity.ai/)**: Real-time AI research and search.
+- **[Pinecone](https://www.pinecone.io/)**: Vector database and semantic search.
+- **[Plus AI](https://plusai.com/)**: AI-generated PowerPoint and Google Slides.
+- **[Powerdrill](https://powerdrill.ai/)**: AI dataset analysis and insights.
+- **[Qdrant](https://qdrant.tech/)**: Vector search engine and semantic memory.
+- **[Ragie](https://www.ragie.ai/)**: Retrieval-augmented generation knowledge base.
+- **[Recraft](https://recraft.ai/)**: AI image and SVG generation.
+- **[Strata](https://strata.ai/)**: AI agent workflow orchestration across apps.
+- **[UnifAI](https://unifai.network/)**: Dynamic AI tool search and execution.
+- **[Unstructured](https://unstructured.io/)**: Unstructured data processing workflows.
+- **[Verodat](https://verodat.io/)**: AI-ready data platform.
+- **[VideoDB Director](https://videodb.io/)**: AI-powered video workflows and editing.
+- **[VisionAgent MCP](https://github.com/)**: Enhanced image, video, and document reasoning.
+- **[WaveSpeed](https://wavespeed.ai/)**: AI image and video generation.
+- **[Winston AI](https://gowinston.ai/)**: AI content detection and plagiarism checking.
+- **[Zenable](https://zenable.io/)**: AI code cleanup and vulnerability prevention.
+- **[ZenML](https://www.zenml.io/)**: MLOps and LLMOps pipeline management.
+- **[Zine](https://zine.ai/)**: Portable AI memory and knowledge management.
+
+## MCP: Development & DevOps
+- **[ActionKit by Paragon](https://www.useparagon.com/actionkit)**: Connect to 130+ SaaS integrations like Slack, Salesforce, Gmail.
+- **[Appium MCP Server](https://appium.io)**: Mobile development and automation testing.
+- **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops)**: Repositories, CI/CD, builds, and work item management.
+- **[Bitrise](https://bitrise.io)**: CI/CD and build automation.
+- **[Browserbase](https://www.browserbase.com/)**: Cloud browser automation.
+- **[BrowserStack](https://www.browserstack.com/)**: Cross-browser testing and debugging.
+- **[Buildable](https://buildable.dev)**: AI-powered software project management.
+- **[Buildkite](https://buildkite.com)**: CI/CD pipelines and testing tools.
+- **[CircleCI](https://circleci.com)**: Build and deployment automation.
+- **[Docker](https://www.docker.com/)**: Containerized app development and deployment.
+- **[GitHub](https://github.com)**: Repository and issue management.
+- **[GitLab](https://gitlab.com)**: DevOps and repository automation.
+- **[Heroku](https://www.heroku.com/)**: Cloud application deployment.
+- **[Jenkins](https://www.jenkins.io/)**: CI/CD automation.
+- **[JetBrains](https://www.jetbrains.com/)**: IDE integrations and code editing.
+- **[LambdaTest](https://www.lambdatest.com)**: Browser and automation testing.
+- **[Netlify](https://www.netlify.com/)**: Website deployment and hosting.
+- **[Nx](https://nx.dev/)**: Monorepo architecture and AI codebase insights.
+- **[Octopus Deploy](https://octopus.com/)**: Deployment automation.
+- **[OpsLevel](https://www.opslevel.com/)**: Service catalog and operational tooling.
+- **[Playwright](https://playwright.dev/)**: Browser automation and testing.
+- **[Pulumi](https://www.pulumi.com/)**: Infrastructure as code automation.
+- **[Render](https://render.com/)**: Cloud app deployment and hosting.
+- **[Semgrep](https://semgrep.dev/)**: Security scanning and static analysis.
+- **[Shortcut](https://shortcut.com/)**: Project and task management.
+- **[Snyk](https://snyk.io/)**: Security vulnerability scanning.
+- **[SonarQube](products/sonarqube/)**: Code quality and security analysis.
+- **[Storybook](https://storybook.js.org/)**: UI component testing and documentation.
+- **[Thirdweb](https://thirdweb.com/)**: Blockchain interaction, contracts, and transactions.
+- **[Vercel](https://vercel.com/)**: Frontend deployment and hosting.
+- **[YepCode](https://yepcode.io/)**: Secure code execution and sandboxing.
+
+## MCP: Data & Infrastructure
+- **[Aiven](https://go.aiven.io/mcp-server)**: Manage PostgreSQL, Kafka, ClickHouse, OpenSearch services.
+- **[Apache Doris](https://doris.apache.org/)**: Real-time analytics data warehouse.
+- **[Astra DB](https://www.datastax.com/products/datastax-astra)**: NoSQL database management and operations.
+- **[Baserow](https://baserow.io)**: Database querying and integrations.
+- **[ClickHouse](https://clickhouse.com/)**: Analytics database querying.
+- **[Cloudflare](https://www.cloudflare.com/)**: CDN, edge functions, DNS, and security.
+- **[Convex](https://convex.dev)**: Backend querying and app introspection.
+- **[Couchbase](https://www.couchbase.com)**: Distributed database management.
+- **[Databricks](https://databricks.com)**: AI and data lakehouse platform.
+- **[Elasticsearch](https://www.elastic.co/elasticsearch)**: Search and analytics engine.
+- **[FalkorDB](https://www.falkordb.com)**: Graph database querying.
+- **[Firebase](https://firebase.google.com)**: App backend and hosting platform.
+- **[MariaDB](https://mariadb.org/)**: SQL database management and querying.
+- **[MCP Toolbox for Databases](https://github.com/)**: Secure database MCP tools for SQL and vector databases.
+- **[Memgraph](https://memgraph.com/)**: Graph database querying and analytics.
+- **[MongoDB](https://www.mongodb.com/)**: NoSQL database management.
+- **[MotherDuck](https://motherduck.com/)**: Cloud DuckDB analytics platform.
+- **[Neo4j](https://neo4j.com/)**: Graph database and cypher querying.
+- **[Neo4j Agent Memory](https://neo4j.com/)**: AI agent memory using knowledge graphs.
+- **[Neon](https://neon.tech/)**: Serverless PostgreSQL platform.
+- **[OceanBase](https://www.oceanbase.com/)**: Distributed database management.
+- **[Oracle](https://www.oracle.com/database/)**: Oracle database integrations and querying.
+- **[Prisma](https://www.prisma.io/)**: Database ORM and Postgres management.
+- **[Redis](https://redis.io/)**: In-memory database and caching.
+- **[SingleStore](https://www.singlestore.com/)**: Distributed SQL database.
+- **[SQL Server](https://www.microsoft.com/en-us/sql-server)**: Microsoft SQL database management.
+- **[TiDB](https://tidbcloud.com/)**: Distributed SQL database management.
+- **[Tinybird](https://www.tinybird.co/)**: Serverless ClickHouse analytics platform.
+- **[Upstash](https://upstash.com/)**: Serverless Redis and database management.
+- **[YDB](https://ydb.tech/)**: Distributed database querying.
+- **[YugabyteDB](https://www.yugabyte.com/)**: Distributed SQL database management.
+
+## MCP: SaaS & Business
+- **[Adfin](https://www.adfin.com/)**: Payment management, invoicing, and accounting reconciliation.
+- **[Atlassian](https://www.atlassian.com/)**: Jira and Confluence integrations.
+- **[Auth0](https://auth0.com)**: Identity and authentication management.
+- **[BoldSign](https://boldsign.com/)**: E-signature management.
+- **[Box](https://box.com)**: Intelligent content management.
+- **[Cal.com](https://cal.com)**: Scheduling and appointment management.
+- **[Canva](https://canva.com)**: AI-powered design and app development support.
+- **[Chargebee](https://www.chargebee.com)**: Subscription billing and payment management.
+- **[HubSpot](https://www.hubspot.com/)**: CRM and customer management.
+- **[Klaviyo](https://www.klaviyo.com/)**: Marketing automation.
+- **[Magic Meal Kits](https://make.magicmealkits.com/)**: Extend Make automation workflows with AI-ready tools.
+- **[Mailgun](https://www.mailgun.com/)**: Email sending and API integrations.
+- **[Mailjet](https://www.mailjet.com/)**: Campaign, contacts, email workflows, analytics.
+- **[Make](https://www.make.com/)**: Automation scenarios and workflow orchestration.
+- **[Microsoft Business Central](https://www.microsoft.com/en-us/dynamics-365/products/business-central)**: ERP, sales, invoices, vendor management.
+- **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)**: Collaboration and messaging integrations.
+- **[Monday.com](https://monday.com/)**: Project and workflow management.
+- **[Mulesoft](https://www.mulesoft.com/)**: API integrations and app connectivity.
+- **[Nango](https://www.nango.dev/)**: API integrations with auth and observability.
+- **[Notion](https://www.notion.so/)**: Workspace, notes, and knowledge management.
+- **[Nutrient](https://www.nutrient.io/)**: Document editing, signing, extraction.
+- **[ONLYOFFICE DocSpace](https://www.onlyoffice.com/docspace.aspx)**: File, folder, and workspace management.
+- **[PagerDuty](https://www.pagerduty.com/)**: Incident management and alerting.
+- **[PandaDoc](https://www.pandadoc.com/)**: Document workflows and e-signatures.
+- **[Pipedream](https://pipedream.com/)**: API automation with thousands of integrations.
+- **[Routine](https://routine.co/)**: Tasks, notes, and calendar management.
+- **[Rube](https://rube.app/)**: AI integrations with 500+ apps.
+- **[Secureframe](https://secureframe.com/)**: Compliance and audit automation.
+- **[Thena](https://www.thena.ai/)**: Customer communication across Slack, Email, Discord, Web.
+- **[Tldv](https://tldv.io/)**: AI meeting integrations for Zoom, Meet, Teams.
+- **[Todoist](https://todoist.com/)**: Task and productivity management.
+- **[Twilio](https://www.twilio.com/)**: SMS, phone numbers, and communication APIs.
+- **[Unblocked](https://getunblocked.com/)**: Context access from Slack, Docs, JIRA, Confluence.
+- **[WayStation](https://waystation.ai/)**: Productivity tool integrations.
+- **[Webflow](https://webflow.com/)**: Website CMS and design platform management.
+- **[WhatsApp Business](https://business.whatsapp.com/)**: Messaging automation and customer communication.
+- **[WooCommerce.com](https://woocommerce.com/)**: Store, product, and order management.
+- **[WordPress.com](https://wordpress.com/)**: Site content and analytics management.
+- **[Xero](https://www.xero.com/)**: Accounting and financial management.
+- **[Zapier](https://zapier.com/)**: Connect AI agents with 8,000+ apps.
+
+## MCP: Fintech & E-commerce
+- **[Airwallex Developer](https://www.airwallex.com/docs/api/)**: Developer tools for Airwallex API integration.
+- **[Alpaca](https://alpaca.markets/)**: Stock and options trading APIs.
+- **[AlphaVantage](https://www.alphavantage.co)**: Financial market data APIs.
+- **[CoinGecko](https://www.coingecko.com/en/api)**: Crypto market data APIs.
+- **[Flutterwave](https://flutterwave.com)**: Payment APIs and transaction management.
+- **[MCP for WooCommerce](https://wordpress.org/plugins/mcp-for-woocommerce/)**: AI access to WooCommerce products and WordPress content.
+- **[Mercado Libre](https://www.mercadolibre.com/)**: E-commerce platform integrations.
+- **[Mercado Pago](https://www.mercadopago.com/)**: Online payments and checkout systems.
+- **[Paddle](https://www.paddle.com/)**: Billing and subscription management.
+- **[PayPal](https://www.paypal.com/)**: Online payments and transactions.
+- **[Qonto](https://qonto.com/)**: Business finance management.
+- **[QuantConnect](https://www.quantconnect.com/)**: Quantitative trading and backtesting.
+- **[Ramp](https://ramp.com/)**: Expense analysis and finance automation.
+- **[Razorpay](https://razorpay.com/)**: Payment gateway integrations.
+- **[Token Metrics](https://www.tokenmetrics.com/)**: Crypto analytics, predictions, and signals.
+- **[Trade Agent](https://thetradeagent.ai/)**: Execute stock and crypto trades.
+- **[Twelve Data](https://twelvedata.com/)**: Real-time and historical financial market data.
+- **[VCAgents](https://vcagents.ai/)**: Investor-focused AI agents and market insights.
+- **[Verbwire](https://verbwire.com/)**: NFT minting, smart contracts, and IPFS storage.
+
+## MCP: Utilities & Monitoring
+- **[Anytype](https://anytype.io)**: AI interaction with local collaborative wiki systems.
+- **[Apify](https://apify.com)**: Web scraping and automation tools.
+- **[Aqara MCP Server](https://www.aqara.com/)**: Smart home device control through AI agents.
+- **[Baidu Map](https://lbsyun.baidu.com/)**: Location services and geospatial analysis.
+- **[BrightData](https://brightdata.com)**: Web data extraction and internet automation.
+- **[Burp Suite](https://portswigger.net/burp)**: Web security testing.
+- **[Cloudinary](https://cloudinary.com)**: Media management and AI image transformation.
+- **[Codacy](https://www.codacy.com)**: Code quality and vulnerability analysis.
+- **[ConfigCat](https://configcat.com)**: Feature flag management.
+- **[CrowdStrike Falcon](https://www.crowdstrike.com/)**: Security detections and threat intelligence.
+- **[Datawrapper](https://www.datawrapper.de)**: AI-powered chart generation.
+- **[DevCycle](https://devcycle.com)**: Feature flag management with AI.
+- **[DevExpress](https://www.devexpress.com)**: UI component documentation access.
+- **[Endor Labs](https://endorlabs.com)**: Security risk analysis for codebases.
+- **[ESP RainMaker](https://rainmaker.espressif.com/)**: IoT device management.
+- **[Homebrew](https://brew.sh)**: macOS package management.
+- **[Last9](https://last9.io)**: Production logs and debugging.
+- **[MCP Discovery](https://github.com/)**: CLI tool for discovering MCP server capabilities.
+- **[Memalot](https://github.com/)**: Detect memory leaks in Python applications.
+- **[Metoro](https://metoro.io/)**: Kubernetes monitoring and interaction.
+- **[Microsoft Clarity](https://clarity.microsoft.com/)**: Behavioral analytics and heatmaps.
+- **[Microsoft Learn Docs](https://learn.microsoft.com/)**: Official Microsoft technical documentation access.
+- **[Microsoft Dataverse](https://www.microsoft.com/en-us/power-platform/products/dataverse)**: Business data storage and querying.
+- **[Mixpanel](https://mixpanel.com/)**: Product analytics and funnel analysis.
+- **[Mobb](https://vibe.mobb.ai/)**: Vulnerability detection and remediation.
+- **[Momento](https://www.gomomento.com/)**: Serverless cache and performance optimization.
+- **[Multiplayer](https://www.multiplayer.app/)**: Session recording and debugging.
+- **[NanoVMs](https://nanovms.com/)**: Build and deploy unikernels.
+- **[OlaMaps](https://www.olamaps.io/)**: Maps, geocoding, routing APIs.
+- **[Olostep](https://olostep.com/)**: Search, scrape, and crawl web content.
+- **[OP.GG](https://www.op.gg/)**: Gaming analytics and esports statistics.
+- **[OpenMetadata](https://open-metadata.org/)**: Enterprise metadata management.
+- **[OpenSearch](https://opensearch.org/)**: Search and analytics engine.
+- **[Orshot](https://orshot.com/)**: Dynamic image generation from templates.
+- **[Oxylabs](https://oxylabs.io/)**: Advanced web scraping and proxy APIs.
+- **[PaddleOCR](https://www.paddleocr.ai/)**: OCR and document parsing.
+- **[Paper](https://paper.trade/)**: Simulated trading platform.
+- **[PostHog](https://posthog.com/)**: Product analytics and feature flags.
+- **[Postman API](https://www.postman.com/)**: API testing and resource management.
+- **[Probe.dev](https://probe.dev/)**: Media analysis and validation.
+- **[PubNub](https://www.pubnub.com/)**: Real-time communication APIs.
+- **[Pure.md](https://pure.md/)**: Reliable markdown extraction from websites.
+- **[Put.io](https://put.io/)**: Torrent downloading and cloud storage.
+- **[Roblox Studio](https://create.roblox.com/)**: Roblox game and scene development.
+- **[SafeLine](https://safepoint.cloud/landing/safeline)**: Self-hosted web application firewall.
+- **[ScrAPI](https://scrapi.tech/)**: Advanced web scraping APIs.
+- **[ScreenshotOne](https://screenshotone.com/)**: Website screenshot rendering.
+- **[Stack Overflow](https://stackoverflow.com/)**: Developer Q&A and programming solutions.
+- **[TextArtTools](https://textarttools.com/)**: Unicode text styles and figlet banner generation.
+- **[TextIn](https://www.textin.com/)**: OCR, text extraction, and markdown conversion.
+- **[ThingsBoard](https://thingsboard.io/)**: IoT platform interaction through AI agents.
+- **[ThinQ Connect](https://www.lg.com/)**: Smart home and appliance control.
+- **[ThoughtSpot](https://thoughtspot.com/)**: Business intelligence and analytics.
+- **[Tianji](https://tianji.msgbyte.com/)**: Self-hosted or cloud analytics platform integration.
+- **[TomTom-MCP](https://www.tomtom.com/)**: Maps, routing, and geospatial APIs.
+- **[TCSAS](https://www.tencentcloud.com/products/tcsas)**: Tencent Cloud Super App services.
+- **[Uno Platform](https://platform.uno/)**: Cross-platform .NET app development resources.
+- **[UUV](https://e2e-test-quest.github.io/uuv/)**: Human-readable end-to-end testing.
+- **[Vaadin](https://vaadin.com/)**: Java UI framework documentation and tooling.
+- **[Vantage](https://www.vantage.sh/)**: Cloud cost monitoring and optimization.
+- **[VariFlight](https://www.variflight.com/)**: Flight, weather, fare, and aviation data.
+- **[Vectorize](https://vectorize.io/)**: Retrieval systems and markdown extraction.
+- **[VictoriaLogs](https://docs.victoriametrics.com/victorialogs/)**: Log querying and debugging.
+- **[VictoriaMetrics](https://victoriametrics.com/)**: Monitoring and observability platform.
+- **[VictoriaTraces](https://docs.victoriametrics.com/victoriatraces/)**: Distributed tracing and debugging.
+- **[Vizro](https://vizro.readthedocs.io/)**: Dashboard and chart generation templates.
+- **[WebScraping.AI](https://webscraping.ai/)**: Web scraping and data extraction.
+- **[Yeelight MCP Server](https://github.com/Yeelight/yeelight-iot-mcp)**: Smart lighting device control.
+- **[ZettelkastenSpace](https://www.zettelkasten.space/)**: Knowledge management with MCP integration.
+- **[ZIZAI Recruitment](https://zizai.work/)**: AI-powered recruitment platform.
+
