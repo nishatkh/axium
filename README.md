@@ -1,4 +1,4 @@
-# Axium — Premium Engineering Dashboard & Component Library
+# Axium
 
 ![Axium Banner](https://img.shields.io/badge/AESTHETIC-PURE_BLACK-000000?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/STACK-REACT_19_%7C_VITE_%7C_TAILWIND_V4-blue?style=for-the-badge)
