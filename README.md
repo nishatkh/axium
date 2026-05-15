@@ -8,7 +8,6 @@ Axium is a high-fidelity, performance-optimized production platform designed for
 ## 🚀 Key Features
 
 ### 1. Cinematic Hero
-*   **Next-Gen Hardware Mockup**: Features an iPhone 17 Pro Max chassis with a custom-rendered engineering dashboard.
 *   **Liquid Glass Refraction**: Real-time refraction effects and film grain overlays for a tactile, cinematic feel.
 *   **GSAP Powered Orchestration**: Complex, coordinated entrance animations for taglines and UI elements.
 *   **Pure Black Aesthetic**: Optimized for OLED displays with true #000000 backgrounds.
